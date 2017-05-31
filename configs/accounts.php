@@ -65,7 +65,7 @@ $premium_acc = array();
 //$premium_acc ["datafile_com"] = array('user' => 'your username', 'pass' => 'your password');
 
 ###Premium cookie configuration, dont use this if you have already set another premium account config
-$premium_acc['needrom.com'] = array('cookie' => 'wordpress_logged_in_f36b5ccf271aad759c385396c7d6554c');
+
 //$premium_acc["hotfile_com"] = array('cookie' => 'your premium cookie');
 //$premium_acc["rapidshare_com"] = array('cookie' => 'your premium cookie');
 //$premium_acc["uploaded_net"] = array('cookie' => 'your premium cookie');
