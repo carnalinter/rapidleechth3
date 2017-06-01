@@ -8,12 +8,8 @@ $premium_acc = array();
 //$premium_acc["rapidshare_com"] = array(array('user' => 'your username1', 'pass' => 'your password1'),array('user' => 'your username2', 'pass' => 'your password2'),array('user' => 'your username3', 'pass' => 'your password3'));
 
 
-//$premium_acc['dl.sammobile.com'] = array('user' => 'susutun', 'pass' => '095112233sam');
-$premium_acc["sammobile_com"] = array('user' => 'susutun', 'pass' => '095112233sam123');
-$premium_acc['uptobox_com'] = array('user' => 'kokar', 'pass' => 'kokar123');
-$premium_acc["my_pcloud_com"] = array('user' => 'eieikhaing.cn@gmail.com', 'pass' => 'K@nainG2050');
-$premium_acc["rapidgator_net"] = array('user' => 'aungminhan123@gmail.com', 'pass' => 'aungminhan1993');
-$premium_acc["samsung-firmware_org"] = array('user' => 'susutun', 'pass' => 'samsung-firmware.org');
+
+
 //$premium_acc["openload_co"] = array('user' => 'susutunum2@gmail.com', 'pass' => 'openload.iosusutun');
 //$premium_acc["netload_in"] = array('user' => 'your username', 'pass' => 'your password');
 //$premium_acc["cramit_in"] = array('user' => 'your username', 'pass' => 'your password');
@@ -71,7 +67,7 @@ $premium_acc["samsung-firmware_org"] = array('user' => 'susutun', 'pass' => 'sam
 //$premium_acc ["datafile_com"] = array('user' => 'your username', 'pass' => 'your password');
 
 ###Premium cookie configuration, dont use this if you have already set another premium account config
-$premium_acc['needrom.com'] = array('cookie' => 'wordpress_logged_in_f36b5ccf271aad759c385396c7d6554c');
+
 //$premium_acc["hotfile_com"] = array('cookie' => 'your premium cookie');
 //$premium_acc["rapidshare_com"] = array('cookie' => 'your premium cookie');
 //$premium_acc["uploaded_net"] = array('cookie' => 'your premium cookie');
