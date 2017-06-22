@@ -10,7 +10,7 @@ $premium_acc = array();
 
 
 
-//$premium_acc["openload_co"] = array('user' => 'susutunum2@gmail.com', 'pass' => 'openload.iosusutun');
+
 //$premium_acc["netload_in"] = array('user' => 'your username', 'pass' => 'your password');
 //$premium_acc["cramit_in"] = array('user' => 'your username', 'pass' => 'your password');
 //$premium_acc["megashare_com"] = array('user' => 'your username', 'pass' => 'your password');
